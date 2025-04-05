@@ -126,6 +126,24 @@ a {
   background-color: #ffffff;
 }
 
+.team-item {
+  background-color: #ffffff;
+}
+
+.team {
+  background-color: #f4f4fd;
+}
+
+.team-content {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #434455;
+  background-color: #fff;
+}
+
 .team-list {
   font-weight: 400;
   font-size: 16px;
@@ -169,22 +187,4 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
-}
-
-.team {
-  background-color: #f4f4fd;
-}
-
-.team-content {
-  font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
-  letter-spacing: 0.02em;
-  text-align: center;
-  color: #434455;
-  background-color: #fff;
-}
-
-.team-item {
-  background-color: #ffffff;
 }
