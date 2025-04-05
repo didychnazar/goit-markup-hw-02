@@ -118,10 +118,12 @@ a {
 .portfolio-logo {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
+  background-color: #ffffff;
 }
 
 .team-list {
@@ -130,10 +132,12 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
+  background-color: #fff;
   color: #434455;
+  font-size: 16px;
 }
 
-.team-item {
+.team-title {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
@@ -164,4 +168,8 @@ a {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+
+.team {
+  background-color: #f4f4fd;
 }
